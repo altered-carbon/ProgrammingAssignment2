@@ -1,6 +1,6 @@
 ##The function makeCacheMatrix takes a matrix as an input
 ##set the value of matrix, gets the value of the matrix.
-##sets the value of invert and gets the value of the invert
+##sets the value of invert, gets the value of the invert
 
 
 ##<<- is a special operator used to assign value to a variable in an environment
